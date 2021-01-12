@@ -1,0 +1,1 @@
+# Nmap 7.91 scan initiated Tue Jan 12 12:06:46 2021 as: nmap -Pn -p- --max-retries 1 --max-rate 500 --max-scan-delay 20 -T4 -v -oN nmap/Full_192.168.0.1.nmap 192.168.0.1
