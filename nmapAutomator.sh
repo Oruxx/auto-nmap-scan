@@ -553,7 +553,9 @@ elif [ -f "$1" ];then
       echo -e "${RED}"
       usage
     fi
+    cd ..
     done
+    exit
 else
 	echo -e "${RED}"
 	echo -e "${RED}Invalid IP!"
